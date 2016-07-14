@@ -37,6 +37,19 @@ ul, ol, dl, figure,
     margin-bottom: $spacing-unit / 2;
 }
 
+.post-content {
+    p {
+        margin: 0;
+        text-align: justify;
+
+    }
+    p.break{
+        text-indent: 2em;
+    }
+    * + .first {
+        margin-top: 1em;
+    }
+}
 
 
 /**
