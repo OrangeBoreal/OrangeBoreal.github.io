@@ -1,3 +1,10 @@
+---  
+layout: post  
+title:  "En cinq fragments"  
+date:   2016-05-12  
+categories: []  
+---  
+
 1.    
 Le vent claquait contre ses oreilles, plaquant sa peau contre ses os. La force centrifuge enfonça sa cuisse dans la carcasse métallique alors qu’elle prenait le dernier virage à la corde. L’aile droite de la contraption siffla anormalement sous l’effort. Del espérait que ça tiendrait. La voilure avait été méchamment amochée par un tentacule ennemi, alors qu’ils bataillaient pour se rabattre, deux virages auparavant.      
 L’électrode de cuivre à sa tempe pulsa. Le numéro 8 remonte sur ta gauche, trois carreaux d’arbalète chargés que je peux voir, sans doute un quatrième contre son tronc, l’avertit la semi-conscience de la contraption.   
