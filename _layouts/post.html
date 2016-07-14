@@ -13,3 +13,17 @@ layout: default
   </div>
 
 </article>
+<script type="text/javascript">
+  $(function() {
+    $(".post-content p").map(function(idx, e){
+      var first = true;
+      $(e).replaceWith(
+        $.map($(e).html().split("<br>"), function(se){
+          var paragraph_class = first ? "first" : "break"
+          first = false;
+          return "<p class='" + paragraph_class + "'>" + se + "</p>"
+        })
+      );
+    })
+  });
+</script>
