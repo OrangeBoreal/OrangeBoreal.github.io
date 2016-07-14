@@ -5,7 +5,7 @@ date:   2016-05-12
 categories: []  
 ---  
 
-1.    
+**1.**    
 Le vent claquait contre ses oreilles, plaquant sa peau contre ses os. La force centrifuge enfonça sa cuisse dans la carcasse métallique alors qu’elle prenait le dernier virage à la corde. L’aile droite de la contraption siffla anormalement sous l’effort. Del espérait que ça tiendrait. La voilure avait été méchamment amochée par un tentacule ennemi, alors qu’ils bataillaient pour se rabattre, deux virages auparavant.      
 L’électrode de cuivre à sa tempe pulsa. Le numéro 8 remonte sur ta gauche, trois carreaux d’arbalète chargés que je peux voir, sans doute un quatrième contre son tronc, l’avertit la semi-conscience de la contraption.   
 A la sortie du virage, Del fit plonger l’engin ; elle ne pouvait risquer d’endommager davantage la voilure des ailes. Celle de droite grinça mais tint bon. C’était sa dernière course. Elle gagnerait.   
@@ -18,9 +18,10 @@ Le vent claquait contre ses oreilles, plaquant sa peau contre ses os. L’aile d
 Del resta encore plusieurs heures courbées sur sa contraption, à remettre en état les accrocs causés par la course.  « A demain », lancèrent les garçons qui quittaient l’écurire. « A demain », mentit-elle.   
 Finalement, elle rangea avec un soin méticuleux les outils. La contraption brillait d’un éclat cuivré dans la lumière du soir. Elle passa au vestiaire, posa son casque, mais garda les lunettes de protection dans sa poche. En souvenir. L’électrode implantée sur sa tempe lui sembla plus douloureuse que d’habitude.  
 Il n’y aurait pas d’entraînement demain à l’aube. Del la jockey victorieuse n’était plus. Lady Dehlia ferait ses débuts la semaine prochaine.  
+
+
   
-  
-2.  
+**2.**  
 Lady Delhia était assise au piano. Ses doigts voletaient avec virtuosité sur les touches noires et blanches, invoquant les notes insipides d’une quelconque sonate. Elle avait peu de talents utiles en société, mais de façon surprenante, l’apprentissage du piano ne lui avait jamais posé les difficultés escomptées. A croire qu’arranger des rouages était aussi efficace que faire ses gammes, et que voler en course affûtait la vivacité d’esprit plus sûrement que déchiffrer des partitions absconses.   
 Le dernier accord de la cadence parfaite et pompeuse résonnait encore quand un gentilhomme s’approcha du banc.  
 « Lady Delhia ? Lord Ostbrocke, » se présenta le nouveau venu. « Je pense que nous nous sommes déjà croisés, mais je n’ai pas eu l’occasion de me présenter dans les formes. »  
@@ -50,7 +51,7 @@ Une grande dame respectable attrapa le bras de Lady Delhia.
 « N’écoutez pas les élucubrations de cet importun, il n’est pas de bonne fréquentation pour une jeune première comme vous. Pensez-vous, il vit avec un autre homme ! »  
   
   
-3.  
+**3.**  
 Del était étendue dans la pénombre. La lueur bleutée de la lune ourlait les épais rideaux. Elle respirait plus librement maintenant que son corset avait été défait, mais cela n’ôtait pas le poids sur sa poitrine.   
 Ses pensées revinrent encore une fois sur Emmanuel Reedswater. De belle stature, des yeux qui feraient pâlir l’océan, des boucles dorées qui encadraient à merveille son visage digne des fresques d’antan… et de façon inexplicable, qui semblait la courtiser.   
 Les débuts de Lady Delhia avaient été assez calamiteux. Elle avait certes réussi à ne pas causer de scandales malgré son incompétence, mais au prix d’une invisibilité qui n’était pas de meilleur augure. Pourtant, Lord Reedswater avait fini par l’approcher, puis avait commencé à rechercher assidûment sa présence. Elle n’y avait cru, jusqu’à ce qu’il lui offre avec toute la solennité requise un mouchoir brodé, symbole de ses intentions.   
@@ -66,7 +67,7 @@ Ses pensées glissèrent avec lenteur vers l’endormissement. Dans son sommeil 
   
   
   
-4.  
+**4.**  
 L’averse avait rafraîchi l’air et laissé de petits miroirs argentés qui pavaient les bords de l’allée. Lady Delhia frissonna sous le châle serré autour de ses épaules.   
 « Avez-vous froid ? Désirez-vous rentrer, ma chère ? », s’enquit Lord Reedswater.   
 « Non, je préfère prendre encore un peu l’air. »  
@@ -84,7 +85,7 @@ Lord Reedswater continua à parler, mais Lady Delhia n’écoutait plus. Del ét
   
   
   
-5.  
+**5.**  
 Del ajusta ses lunettes de protection. Elle vérifia la connexion de l’électrode sur sa tempe. La semi-conscience finissait ses vérifications habituelles. Tout est en ordre. La contraption eut un petit ronronnement de contentement.   
 C’était une nouvelle machine, elle ne la connaissait pas. Mais la contraption semblait aimable, et, on le lui avait promis, rapide. Devant Del s’étiraient les larges courbes familières de l’étherodrome. Le chahut de la foule assemblée, que déjà, elle n’entendait plus. L’odeur de la graisse fraîchement appliquée. Le toucher un peu rugueux du cuir sous ses doigts.   
 Un peu au-dessus, dans la tribune des propriétaires, deux hommes, un peu plus proches que la bienséance ne le voudrait. Ils l’observent.   
